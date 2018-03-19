@@ -11,9 +11,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Testing prezi</td>
+    <td>Learning the threats of the internet</td>
     <td>Date</td>
-    <td>13/3/18</td>
+    <td>19/3/18</td>
   </tr>
 </table>
 
@@ -21,11 +21,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Learning about Prezi</td>
+    <td>Listing the threats we know of</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Learn the basics of Prezi</td>
+    <td>Learning the threats of the internet</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -41,7 +41,7 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I kept on trying to do new things</td>
+    <td>I kept adding as much as I knew to the list in the time given</td>
   </tr>
   <tr>
     <td>Questioning?</td>
@@ -49,11 +49,11 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I worked on my own</td>
+    <td>We worked in groups</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I looked back on my design and improved it afterwards</td>
+    <td>I looked back on my list afterwards</td>
   </tr>
   <tr>
     <td>Engagement</td>
@@ -64,7 +64,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I could have tried to add more</td>
+    <td>I could have tried to add more to the list</td>
     <td></td>
   </tr>
   <tr>
@@ -72,7 +72,17 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Keep my edits and not start over and over again</td>
+    <td>Keep my list and not delete other ideas
+
+
+
+
+
+
+
+
+
+I think one of the biggest threats on the Internet is Pornography.</td>
     <td></td>
   </tr>
 </table>
