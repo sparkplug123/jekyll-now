@@ -1,8 +1,8 @@
 ---
-title: Fith blog in fourth half term
+title: Fourth blog in fourth half term
 layout: post
 author: harvey.cooper
-permalink: /fith-blog-in-fourth-half-term/
+permalink: /Fourth-blog-in-fourth-half-term/
 source-id: 1uZwmPOA9q4EpEtItaqIxBNvEoWQvteUn5yfeod_SUs4
 published: true
 ---
@@ -11,9 +11,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Finishing our past projects</td>
+    <td>Threats of the internet</td>
     <td>Date</td>
-    <td>19/2/18</td>
+    <td>19/3/18</td>
   </tr>
 </table>
 
@@ -21,15 +21,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Handing in our blog, scratch game and evaluation</td>
+    <td>Learning about the reality of video games </td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Finish our game</td>
+    <td>Learning the threats of the internet</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Almost </td>
+    <td>Yes</td>
   </tr>
 </table>
 
@@ -41,23 +41,23 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I kept on trying to improve my game even when I was stuck</td>
+    <td>I kept on working on my list</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I asked whenever needed</td>
+    <td>I didn't need to ask questions</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I worked by myself</td>
+    <td>We worked in groups for the list</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I improved the game some more after the lesson</td>
+    <td>I looked back on the list afterwards</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I kept working on my game all the time</td>
+    <td>I kept my head low and worked in my group</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
